@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.podcast-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 37vh;
+    background-size: cover;
+}
+
+.podcast-main-heading {
+    color: white;
+    font-family: "roboto";
+    font-size: 34px;
+    padding: 15px;
+}
+
+.podcast-bottom-section {
+    margin: 5px;
+}
+
+.podcast-details-card {
+    padding: 15px;
+    text-align: center;
+    height: 180px;
+    width: 160px;
+}
+
+.details-image {
+    height: 100px;
+    width: 144px;
+}
+
+.details-heading {
+    font-family: "roboto";
+    font-size: 15px;
+    color: #151765;
+    font-weight: bold;
+    margin-top: 5px;
+
+}
+
+.details-description {
+    font-family: "roboto";
+    font-size: 14px;
+    color: #5a7184;
+}
+
+.podcast-individual-first-card {
+    background-color: #151765;
+    padding: 15px;
+    border-width: 0px;
+}
+
+.podcast-individual-card {
+    padding: 15px;
+    margin: 5px;
+}
+
+.podcast-individual-image {
+    height: 120px;
+    width: 190px;
+    padding-right: 10px;
+
+}
+
+.podcast-individual-main-heading {
+    font-family: "roboto";
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.podcast-individual-subdescription {
+    font-family: "roboto";
+    font-size: 10px;
+    color: white;
+}
+
+.podcast-individual-heading {
+    font-family: "roboto";
+    font-size: 19px;
+    color: #151765;
+    font-weight: bold;
+}
+
+.podcast-individual-description {
+    font-family: "roboto";
+    font-size: 13px;
+    color: #5a7184;
+}
+
+.podcast-individual-time {
+    font-family: "roboto";
+    font-size: 11px;
+    color: #151765;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.button {
+    background-color: #151765;
+    border-radius: 20px;
+    font-family: "roboto";
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    border: none;
+    margin: 15px;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 12px;
+}
